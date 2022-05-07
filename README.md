@@ -1,5 +1,3 @@
-<h1 align="center">Mission: Impulse</h1>
-<p align="center">Aplicação desenvolvida em: React, NodeJS e React Native</p>
-<h1 align="center">
-  <img src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/624ecae7654d9a4a772ad79d_astronauta%2Bcode-NLW-Return.png" loading="lazy" alt="">
-</h1>
+<h1 align="center">BOT Criptomoedaa: Biscoint</h1>
+<h2 align="center">Aplicação desenvolvida em Nodejs.</h2> 
+<p align="center">Estudo com intuito de aprender novas áreas fora do ambiente de trabalho. Amo a tecnologia e o que ela pode mudar e melhorar a vida das pessoas em vários meios como transporte, alimentação, educação, economia. E em específico estou focado em criptomeada e tudo que envolve esse ecossistema.</p>
